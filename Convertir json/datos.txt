@@ -1,0 +1,1 @@
+UserData(id=740, username=asanchez@grupobisa.com, fullName=Alvaro Andrés Sánchez Fuentes, telefono=72210878, cargo=null, agenciaNombre=null, bancoNombre=null, ciudadNombre=Cochabamba, direccion=Sin direccion, email=null)
